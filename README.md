@@ -1,5 +1,5 @@
 # Hyperion Development - Software Engineering Course
-## Level 1 - Capstone Project 2
+## Level 1 - Capstone Project 2 - Customise a Pygame
 
 ### Overview of this Task
 
